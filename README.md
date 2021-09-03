@@ -1,1 +1,2 @@
 # PicBed
+Personal picture bed
